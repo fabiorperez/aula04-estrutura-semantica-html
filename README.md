@@ -1,1 +1,4 @@
-# aula04-estrutura-semantica-html
+# Aula 04 - Estrutura semântica HTML
+
+## Integrantes
+- Willian Sant Anna
